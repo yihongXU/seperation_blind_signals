@@ -1,3 +1,5 @@
 # blind_seperation_of_signals
+codes for seperate two independant signals captures by two sensors.
 
-code in C and Python comming soon (on november the 21th 2017).
+
+copyright : IMT Atlantique for input files, references files
